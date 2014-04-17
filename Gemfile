@@ -12,6 +12,7 @@ gem 'jbuilder', '~> 2.0'
 group :development do
 	gem 'sqlite3'
 	gem 'spring'
+	gem 'pry-rails'
 end
 
 group :doc do
